@@ -2,7 +2,7 @@
 
 👨‍🎓 I graduated with my undergraduate degree from Central South University (CSU) 🎓.
 
-🌍 Currently, I'm pursuing my master's in AI at the University of Italian Switzerland (USI).
+🌍 Currently, I'm pursuing my master's in AI at the Università della Svizzera italiana (USI).
 
 🌱 I’m on an exciting journey doing a research project at LIA@EPFL 🚀, where I am currently on an exchange!
 
