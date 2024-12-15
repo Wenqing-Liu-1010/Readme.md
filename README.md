@@ -4,11 +4,9 @@
 
 🌍 Currently, I'm pursuing my master's in AI at the Università della Svizzera italiana (USI).
 
-🌱 I’m on an exciting journey doing a research project at LIA@EPFL 🚀, where I am currently on an exchange!
+🤖 I'm diving deep into the fascinating worlds of statistics 📊 and machine learning
 
-🤖 I'm diving deep into the fascinating worlds of statistics 📊 and machine learning, with a special focus on Natural Language Processing (NLP) 📚!
-
-🤝 I'm looking to collaborate on some amazing NLP and machine learning projects, so hit me up!
+🤝 I'm looking to collaborate on machine learning projects, so hit me up!
 
 😄 Pronouns: he/him
 
